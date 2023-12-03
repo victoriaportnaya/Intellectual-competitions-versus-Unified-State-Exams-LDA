@@ -1,0 +1,58 @@
+Carefully read the proposed text by Shoshana Zuboff and study the data provided in it. Highlight for yourself the main idea of this text as a whole. Read it again and think about the author's main arguments. The assignment for the text consists of two parts.
+
+
+Shoshana Zuboff. Surveillance capitalism
+Under surveillance capitalism, the “means of production” serve as “means of behavior change.” Machine processes are replacing human relationships so that certainty can replace trust. This new assembly draws on a vast digital apparatus, a world-historical concentration of advanced computer knowledge and skills, and colossal wealth. The mass behavior change cycle brings together many of the operations we have discussed: ubiquitous data mining and digitization, action activation (tuning, compulsion, conditioning), behavioral surplus supply chains, machine intelligence-driven manufacturing processes, predictive product manufacturing, dynamic behavioral futures markets, and “targeting.” ”, which leads to new rounds of adjustment, coercion, conditioning and forced “non-agreements”, thereby restarting the whole cycle. This assembly is a market project: its purpose is to produce forecasts that become more valuable the closer they come to certainty. The best forecasts rely on the totality of data, and in the wake of this movement towards totality, surveillance capitalists have seized control of the division of social knowledge. They dominate knowledge from the decisive pinnacle of the social order, where they nourish and protect the shadow text - the original of certainty itself. We fell into this market network. We have looked at the conditions, mechanisms and processes that create this private realm of knowledge and its profitable forecasts, which evolve towards certainty to guarantee market players the outcomes they want. No outcome can be guaranteed unless you have the ability to achieve it. This is the dark heart of surveillance capitalism - a new type of business that reimagines us through the prism of its own specific power, operating through the means of changing behavior.
+
+
+How is uncertainty in business understood in the article? Support your answer with quotes from the article. Formulate a different approach to defining uncertainty in economics.
+
+What kind of power is this and how does it remake human nature for the profitable certainty it demands? I call this type of power instrumentalism, defining it as the instrumentation and instrumentalization of behavior in order to change, predict, monetize and control it. In this formulation
+ 
+“instrumentation” refers to puppets—the ubiquitous networked material architecture of receptive computerization that digitizes, interprets, and enacts human experience.
+
+Which of the philosophers you know also discussed the specifics of the concept of power? Give at least 3 names.
+
+“Instrumentalization,” on the other hand, denotes social relations that orient puppeteers toward human experience, where surveillance capital owns machines that turn us into means to other people’s market ends. Surveillance capitalism has forced us to deal with an unprecedented form of capitalism. Now the instrumental power that supports and expands the surveillance capitalist project is forcing us into a second confrontation with the unprecedented.
+
+Comprehension Question (Political Science) (5 points)
+The author talks about a new type of capitalism - surveillance. How does this interpretation differ from the classical understanding of capitalism according to K. Marx (name the signs by which they can be distinguished)? What new means of exercising power have modern states acquired? Give an example of supervisory capital?
+
+When scientists, civil society leaders, journalists, public figures, and indeed most of us, courageously speak out against this new power, we invariably turn to Orwell's Big Brother and the specter of totalitarianism more generally as the lens through which to interpret today's threats. Google, Facebook, and the entire field of commercial surveillance are often portrayed as “digital totalitarianism.” I admire those who resist the incursions of commercial surveillance, but I also believe that to equate instrumental power with totalitarianism only serves to impede our understanding, as well as our ability to resist, neutralize, and ultimately defeat its power. There is no historical precedent for instrumentalism, but we do have a striking precedent for a similar kind of encounter with an unprecedented new type of power.
+
+
+The author discusses the social and political effects of digital transformation. What effects and risks of digital transformation on humans can you note? List at least 3 effects and risks.
+
+In those years when totalitarianism had not yet been named and formally analyzed, its critics resorted to the language of imperialism as the only language available to articulate and resist the mortal threat that this new power posed. Today, surveillance capitalism has set us sailing on yet another strange, dark sea of unseen and therefore invisible dangers. Now we, like scientists and citizens of the past, in the hope of salvation, clutch at familiar words describing the power of the 20th century. When we attach a new sense of danger to old, familiar facts without realizing that the conclusions they lead us to are necessarily wrong, we return to the horseless carriage syndrome. Instead, we need to understand the specific internal logic of the accumulation of power, which belongs entirely to the 21st century, for which we will not find an adequate compass in the past. Totalitarianism was obsessed with the reconstruction of the human race through the dual mechanism of genocide and the “engineering of human souls.” Instrumental power
+ 
+as we will see, takes us in a completely different direction. Surveillance capitalists are not interested in killing or transforming our souls.
+
+The author writes about this form of capitalism as “surveillance capitalism”. Name the five most important “material” features of a capitalist state that form the economic basis of this system.
+
+Although their goals are in many ways no less ambitious than those of totalitarian leaders, they are still completely different goals. The work of naming a strange form of power, unprecedented in human experience, must begin anew for the sake of effective resistance and the creative ability to insist on a future that is our own. The most important thing is the fact that, like instrumentalism, totalitarian power was something unprecedented. She literally did not challenge human understanding. We can learn a lot from the efforts and miscalculations of scientists, journalists and citizens who were crushed by an incomprehensible and irresistible force. Once we have addressed these issues, we are ready to explore the origins of instrumentalism in the field of knowledge that has become known as “radical behaviorism,” the most prominent exponent of which was B. F. Skinner with his dream of a “technology of behavior.”
+
+What is surveillance capitalism? What is a total institution? Are there more similarities or differences between these phenomena? What are these similarities/differences?
+
+
+
+The author talks about instrumentalism, which influences the behavior of some people to achieve the market goals of other people. User data is their property, but surveillance capitalism takes it away.
+Do you agree with the statement that “Google, Facebook and the entire field of commercial surveillance are often portrayed as “digital totalitarianism”? Justify your answer. Describe such a state regime as totalitarianism. What norms do you think of Chapter 2 of the Constitution of the Russian Federation “Rights and Freedoms of Man and Citizen” are violated in the course of their activities, for example, by Google and Facebook (there is no need to give article numbers).
+
+
+The author also notes: “When we attach a new sense of danger to old, familiar facts, without realizing that the conclusions they will lead us to are necessarily wrong, we return to the horseless carriage syndrome. Instead, we need to understand the specific internal logic of the accumulation of power, which belongs entirely to the 21st century, for which we will not find an adequate compass in the past.”
+Do you agree with the author’s statement that the logic of accumulation of power for each era has its own specific features? Justify your answer. What do you think, from the author’s point of view, is the key difference between the processes of the current stage and the processes of the 20th century? What key features of totalitarian regimes of the 20th century does the author note? Which of the 20th century philosophers
+ 
+studied the phenomenon of totalitarianism? Indicate at least 3 names and reveal their main views.
+
+In her work, Shoshana Zuboff argues that the modification of human behavior dictated by the capitalist logic of economic enrichment threatens to do to human nature in the 21st century what industrial capitalism did to the environment in the 20th century.
+Do you agree with this thesis? Why? Give at least two arguments. Suggest what the positive and negative consequences of surveillance capitalism for society might be? Give at least 3 positive and 3 negative consequences.
+
+The author's ideas are consonant with the thoughts of M. Foucault. What type of power did M. Foucault propose to consider? When, in his opinion, does the formation of this type of power occur? What are its main characteristics? M. Foucault also developed the concept
+“power-knowledge”, which formed the basis for Shoshana Zuboff’s understanding of power. What does the term “power-knowledge” mean, and in what parts of the proposed text can we find signs of this concept?
+
+How does the author of the article describe the structure of the forecast market? Give at least three different examples of how firms can make money from forecasts. State the author's position on the degree of accuracy of predictions in the forecast market. What economic hypothesis provides the basis for Shoshana Zuboff's views?
+
+
+Write a social science text (conclusion) summarizing your position on the reasoning questions, highlighting the main problem of the text and the relationship to the author’s theses. The conclusion should not contain new arguments - just show, using social science concepts, how the arguments you previously expressed on each issue line up into a single semantic line and where this line leads. At the end of your conclusion, summarize your analysis in one simple sentence. Write this sentence at the end of the work and underline it.
+ 
+
